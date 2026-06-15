@@ -6,8 +6,8 @@ I am a **Computer Science Engineering student**
 * **Machine Learning.** 
 * **Data Structures & Algorithms (DSA).**
 
-  **Languages:** Python, C
-
+###Languages:
+* ** Python, C.**
 
 
  [LinkedIn - Samarth Lohakare](https://www.linkedin.com/in/samarth-lohakare-21378938b)
