@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! I'm Samarth 👋
 
-<!--
-**Sybereo/Sybereo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Science Engineering student** 
 
-Here are some ideas to get you started:
+### 📚 Currently Learning
+* **Machine Learning.** 
+* **Data Structures & Algorithms (DSA).**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** Python, C
+
+
+
+* [LinkedIn - Samarth Lohakare](https://www.linkedin.com/in/samarth-lohakare-21378938b)
+* [LeetCode Profile](https://leetcode.com/u/I8MQ79Qz4K/)
+  
+*Always learning, always building.*
